@@ -1,3 +1,4 @@
 *.jpg
 eeg_env
 DEAP
+.DS_Store
